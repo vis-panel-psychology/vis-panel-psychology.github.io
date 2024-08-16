@@ -1,0 +1,23 @@
+@import "../globalStyle.scss";
+
+.titleWrapper {
+	margin-top: 40px;
+}
+
+.realFooter {
+	margin-top: 80px;
+	margin-bottom: 20px;
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	h6 {
+		font-size: 0.8rem;
+		// algin center
+		text-align: center;
+		font-weight: 400;
+
+
+	}
+}

@@ -1,0 +1,33 @@
+[
+	{
+		"name": "Ghulam Jilani Quadri",
+		"email": "quadri@ou.edu",
+		"affiliation": "University of Oklahoma",
+		"bio": "Ghulam Jilani Quadri is an Assistant Professor in the School of Computer Science at the University of Oklahoma. Previously, he was a Postdoc Fellow & Computing Innovation Fellow at UNC-Chapel Hill.",
+		"image": "quadri.jpg"
+
+	},
+	{
+		"name": "Danielle Albers Szafir",
+		"email": "dnszafir@cs.unc.edu",
+		"affiliation": "UNC-Chapel Hill",
+		"bio": "Danielle Albers Szafir is an Associate Professor in the Department of Computer Science at the University of North Carolina-Chapel Hill.",
+		"image": "danielle.png"
+	},
+	{
+		"name": "Arran Zeyu Wang",
+		"email": "zeyuwang@cs.unc.edu",
+		"affiliation":"UNC-Chapel Hill",
+		"bio": "Arran Zeyu Wang is a third-year PhD student in the Department of Computer Science at the University of North Carolina-Chapel Hill.",
+		"image": "arran.png"
+	},
+	{
+		"name": "Hyeon Jeon",
+		"email": "hj@hcil.snu.ac.kr",
+		"affiliation": "Seoul National University",
+		"bio": "Hyeon Jeon is a third-year Ph.D. Student at the CSE Department, Seoul National University, Seoul, Korea.",
+		"image": "hyeon.jpeg"
+	}
+]
+
+

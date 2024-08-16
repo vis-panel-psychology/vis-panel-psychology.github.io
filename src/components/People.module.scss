@@ -1,0 +1,12 @@
+@import "../globalStyle.scss";
+
+.peopleWrapper {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	margin-top: 30px;
+}
+
+.titleWrapper {
+	margin-top: 40px;
+}

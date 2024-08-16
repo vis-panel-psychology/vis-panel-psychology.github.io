@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Niklas Elmqvist",
+		"email": "elm@cs.au.dk",
+		"affiliation": "Aarhus University",
+		"bio": "Niklas Elmqvist is a Villum Investigator and Full Professor in the Department of Computer Science at Aarhus University, Denmark. He serves as the Director of the Center for Anytime Anywhere Analytics (CA3), a research center focused on AR/XR for data visualization. Niklas has long experience in patterns and best practices for evaluating data visualization.",
+		"image": "elmqvist.png"
+	},
+	{
+		"name": "Tobias Isenberg",
+		"email": "tobias.isenberg@inria.fr",
+		"affiliation": "Inria",
+		"bio": "Tobias Isenberg is a Senior Research Scientist with Inria at its Paris-Saclay campus. Tobias’s exceptional expertise in interactive scientific visualization and illustrative rendering will lead the discussions on how different visualization systems may necessitate varying evaluation approaches.",
+		"image": "isenberg.jpg"
+	},
+	{
+		"name": "Rita Borgo",
+		"email": "rita.borgo@kcl.ac.uk",
+		"affiliation": "Kings College London",
+		"bio": "Rita Borgo is an Associate Professor at Kings College London and head of the Human-Centered Computing Group. Rita’s valuable insights on how to design user studies, methodologies, and environment will lead discussion on evaluation strategies, drawing from her extensive experience in human-centered computing.",
+		"image": "borgo.webp"
+	},
+	{
+		"name": "Michael Sedlmair",
+		"email": "michael.sedlmair@visus.uni-stuttgart.de",
+		"affiliation": "University of Stuttgart",
+		"bio": "Michael Sedlmair is a Professor at the University of Stuttgart and leads the research group for Visualization and VR/AR. Michael’s expertise with different types of methods in HCI, Vis, and VR/AR will significantly contribute to the discussion on how these methods can impact and benefit the count of evaluations in visualization systems studies.",
+		"image": "sedlmair.jpg"
+	},
+	{
+		"name": "Cindy Xiong Bearfield",
+		"email": "cxiong@gatech.edu",
+		"affiliation": "Georgia Tech",
+		"bio": "Cindy Xiong Bearfield is an Assistant Professor in the School of Interactive Computing at Georgia Tech. Cindy’s expertise in human perception and cognition will help us understand how and when to approach evaluations so that researchers can explain",
+		"image": "bearfield.jpg"
+	}
+]
