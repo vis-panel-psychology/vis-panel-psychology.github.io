@@ -2,12 +2,13 @@
 
 h2 {
 	font-weight: 600;
-	margin-top: 10px;
+	margin-top: -10px;
 	margin-bottom: 0px;
 }
 
 h3 {
-	margin-top: 0px;
+	margin-top: 10px;
+	margin-bottom: 0px;
 }
 
 .logo {
@@ -24,4 +25,14 @@ h3 {
 	align-items: left;
 	flex-direction: column;
 
+}
+
+.dateWrapper {
+	font-size: medium;
+	font-weight: 500;
+}
+
+.smallHeader {
+	font-size: 24px;
+	font-style: italic;
 }
