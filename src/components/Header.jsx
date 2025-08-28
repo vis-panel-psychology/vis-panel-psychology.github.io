@@ -13,7 +13,8 @@ const Header = () => {
 		<div>
 			<img src="./imgs/vis2025_logo.svg" alt="IEEE VIS 2025 Logo" className={styles.logo} />
 			<div className={styles.headerWrapper}>
-				<h2>{parse("What Does Psychology Really Mean to Visualization Research? <br/> Towards PsychXVis and VisXPsych")}</h2>
+				<h2>{parse("What Does Psychology Really Mean to Visualization Research?")}</h2>
+				<h3>{"Towards PsychXVis and VisXPsych"}</h3>
 			</div>
 				<h3>{"Panel @ IEEE VIS 2025"}</h3>
 			<p>
