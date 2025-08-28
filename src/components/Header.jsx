@@ -11,13 +11,13 @@ const Header = () => {
 
 	return (
 		<div>
-			<img src="./imgs/vis2024_logo.png" alt="IEEE VIS 2024 Logo" className={styles.logo} />
+			<img src="./imgs/vis2025_logo.svg" alt="IEEE VIS 2025 Logo" className={styles.logo} />
 			<div className={styles.headerWrapper}>
-				<h2>{parse("(Yet Another) Evaluation Needed?<br/>A Panel Discussion on Evaluation Trends in Visualization")}</h2>
+				<h2>{parse("What Does Psychology Really Mean to Visualization Research? <br/> Towards PsychXVis and VisXPsych")}</h2>
 			</div>
-				<h3>{"Panel @ IEEE VIS 2024"}</h3>
+				<h3>{"Panel @ IEEE VIS 2025"}</h3>
 			<p>
-				{parse("In the evolving field of visualization, rigorous evaluation is essential for validating new techniques and ensuring the effectiveness of existing practices. However, the increasing number of evaluations in academic papers raises questions about the sustainability, feasibility, and rigor of these practices. This panel gathers experts from visualization, visual analytics, empirical studies, HCI, and cognitive psychology to explore how many evaluations are necessary to validate research contributions effectively. <br/><br/>Panelists will discuss the challenges of balancing thorough evaluation with practical constraints like time, budget, and resources. By examining different evaluation types and their strategic use, this panel aims to guide researchers in designing evaluations that reflect the true merits of their work, rather than simply adhering to current trends.")}
+				{parse("This panel aims to discuss the critical yet underdeveloped relationship between psychology and visualization (VIS) research. While VIS frequently draws upon psychological principles—particularly in perception and cognition—current integration remains shallow, often relying on heuristics and anecdotal evidence rather than rigorous scientific foundations. This gap hinders the development of generalizable design principles, limits consideration of human factors, and risks creating technically advanced but ineffective or misleading visualizations. Simultaneously, psychology's growing interest in using visualization as an experimental tool presents future potential for bidirectional collaboration. <br/><br/>We anticipate that its output can catalyze deeper, actionable engagement between two fields, including: (1) Promote a psychologically grounded understanding of effective VIS design; (2) Advocate for empirically rigorous, theory-based VIS research; (3) Identify opportunities for VIS to transform psychological inquiry; and (4) Inspire interdisciplinary research directions. Panelists—visualization experts spanning backgrounds on experimental psychology, behavioral psychology, cognitive science, vision science, decision-making, social science, to human personality—will discuss bridging disciplinary divides in publication norms, methods, and terminology. Their diverse backgrounds (e.g., color semantics, uncertainty communication, cognitive interfaces) ensure a comprehensive exploration of how psychology can transform VIS from rule-of-thumb practices to evidence-based principles, while VIS offers novel methodologies for psychological discovery. The discussion responds to rising interest evidenced by past initiatives integrating vision science, a foundational Visualization Psychology book, and an upcoming Dagstuhl seminar, positioning IEEE VIS conferences as vital hubs for this cutting-edge interdisciplinary advancement.")}
 			</p>
 		</div>
 	)

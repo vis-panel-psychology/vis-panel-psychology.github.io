@@ -1,3 +1,36 @@
+/* Name styling: bold, large, centered */
+h4 {
+	font-size: 1rem;
+	font-weight: 700;
+	text-align: center;
+		margin: 0 0 0 0;
+	font-family: inherit;
+}
+
+/* Affiliation styling: regular, smaller, centered */
+h5 {
+	font-size: 1.3rem;
+	font-weight: 400;
+	text-align: center;
+		margin: 0 0 0 0;
+	font-family: inherit;
+}
+/* Vertically align img, name, and affiliation for each person */
+.verticalAlign {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: flex-start;
+	gap: 2px;
+}
+/* Ensure all person images have the same aspect ratio and size */
+.personImg {
+	width: 120px;
+	height: 120px;
+	object-fit: cover;
+	border-radius: 8px;
+	display: block;
+}
 @import "../globalStyle.scss";
 
 img {

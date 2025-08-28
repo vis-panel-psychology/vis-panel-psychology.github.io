@@ -1,0 +1,36 @@
+.scheduleBlock {
+  margin-top: 48px;
+  margin-bottom: 32px;
+}
+
+.scheduleTitle {
+  font-weight: 700;
+  margin-bottom: 16px;
+}
+
+.scheduleTable {
+  width: 80%;
+  margin: 0 auto;
+  border-collapse: collapse;
+  font-size: 1.0rem;
+  background: transparent;
+}
+
+.scheduleTable th,
+.scheduleTable td {
+  padding: 5px 8px;
+  text-align: left;
+}
+
+.scheduleTable th {
+  font-weight: 700;
+  border-bottom: 3px solid #222;
+}
+
+.scheduleTable tr:not(:last-child) td {
+  border-bottom: 2px solid #ddd;
+}
+
+.scheduleTable b {
+  font-weight: 700;
+}

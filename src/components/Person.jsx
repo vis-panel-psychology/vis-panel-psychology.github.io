@@ -30,16 +30,19 @@ const Person = (props) => {
 
 	return (
 		<div>
-			<img 
-				src={`/imgs/${img}`} 
-				alt={name} 
-				onMouseEnter={mouseEnterEvent}
-				onMouseMove={mouseMoveEvent}
-				onMouseLeave={mouseLeaveEvent}
-				style={{opacity: "0.9"}}
-			/>
-			<h4>{name}</h4>
-			<h5>{affiliation}</h5>
+			<div className={styles.verticalAlign}>
+				<img 
+					src={`/imgs/${img}`} 
+					alt={name} 
+					className={styles.personImg}
+					onMouseEnter={mouseEnterEvent}
+					onMouseMove={mouseMoveEvent}
+					onMouseLeave={mouseLeaveEvent}
+					style={{opacity: "0.9"}}
+				/>
+				<h4>{name}</h4>
+				<h5>{affiliation}</h5>
+			</div>
 
 			<div 
 				className={styles.tooltip} 

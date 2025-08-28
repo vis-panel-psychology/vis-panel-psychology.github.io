@@ -1,3 +1,12 @@
+/* Vertically align each person's image, name, and affiliation */
+.personContainer {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: flex-start;
+		gap: 8px;
+		margin-bottom: 20px;
+}
 @import "../globalStyle.scss";
 
 .peopleWrapper {

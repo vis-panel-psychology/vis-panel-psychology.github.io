@@ -25,7 +25,7 @@ const People = (props) => {
 			<div className={styles.peopleWrapper}>
 				{people.map((person, index) => {
 					return (
-						<div key={index}>
+						<div key={index} className={styles.personContainer}>
 							<Person name={person.name} bio={person.bio} img={person.image} affiliation={person.affiliation} email={person.email} />
 						</div>
 					)})}
