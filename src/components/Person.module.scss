@@ -1,3 +1,8 @@
+ .tooltip {
+	position: fixed;
+	z-index: 9999;
+	pointer-events: none;
+}
 /* Name styling: bold, large, centered */
 h4 {
 	font-size: 1rem;

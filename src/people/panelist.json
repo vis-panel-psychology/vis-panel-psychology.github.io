@@ -2,7 +2,7 @@
   {
     "name": "Min Chen",
     "email": "min.chen@oerc.ox.ac.uk",
-    "affiliation": "Oxford University",
+    "affiliation": "Oxford",
     "bio": "Min Chen is a professor of scientific visualization at Oxford University and a fellow of Pembroke College. His research interests include data visualization, data science, computer graphics, computer vision, and human-computer interaction. He has co-authored over 200 publications, including his recent contributions in areas such as theory of visualization, video visualization, visual analytics, VIS4ML, and perception and cognition in visualization. He has worked on a broad spectrum of interdisciplinary research topics, ranging from the sciences to sports, and from digital humanities to cybersecurity. He received the 2024 VGTC Visualization Lifetime Achievement Award.",
     "image": "chen.jpg"
   },
@@ -23,7 +23,7 @@
   {
     "name": "Lace Padilla",
     "email": "l.padilla@northeastern.edu",
-    "affiliation": "Northeastern University",
+    "affiliation": "Northeastern",
     "bio": "Lace Padilla is an assistant professor in the Khoury College of Computer Sciences and the College of Science at Northeastern University, based in Boston and Oakland. Her interests lie in the intersection between Information Visualization, Behavioral Decision Making, and Data Science. Her research on uncertainty communication explores how to align data visualizations of future events with human decision-making capabilities.",
     "image": "padilla.jpg"
   },
@@ -37,7 +37,7 @@
   {
     "name": "Alex Kale",
     "email": "kalea@uchicago.edu",
-    "affiliation": "University of Chicago",
+    "affiliation": "UChicago",
     "bio": "Alex Kale is an Assistant Professor in Computer Science and the Data Science Institute at the University of Chicago. He earned his PhD in Information Science at the University of Washington in 2022. Alex leads the Data Cognition Lab at the University of Chicago, focused on creating data visualization and analysis software that explicitly represents users’ cognitive processes around data.",
     "image": "kale.jpeg"
   }
