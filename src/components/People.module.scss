@@ -10,12 +10,13 @@
 @import "../globalStyle.scss";
 
 .peopleWrapper {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-around;
-	margin-top: 30px;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	gap: 10px;
+	justify-items: center;
+	margin-top: 20px;
 }
 
 .titleWrapper {
-	margin-top: 40px;
+	margin-top: 20px;
 }
