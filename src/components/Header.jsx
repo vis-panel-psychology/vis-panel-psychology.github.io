@@ -21,13 +21,13 @@ const Header = () => {
 				{parse("This panel aims to discuss the critical yet underdeveloped relationship between psychology and visualization (VIS) research. While VIS frequently draws upon psychological principles—particularly in perception and cognition—current integration remains shallow, often relying on heuristics and anecdotal evidence rather than rigorous scientific foundations. This gap hinders the development of generalizable design principles, limits consideration of human factors, and risks creating technically advanced but ineffective or misleading visualizations. Simultaneously, psychology's growing interest in using visualization as an experimental tool presents future potential for bidirectional collaboration.")}
 			</p>
 						<p>
-							Relevant initiatives:
+							Relevant efforts:
 							{' '}
-							<a href="https://visxvision.com/" target="_blank" rel="noopener noreferrer">VisXVision</a>,
+							<a href="https://visxvision.com/" target="_blank" rel="noopener noreferrer">VisXVision</a> and
 							{' '}
-							<a href="https://sites.google.com/view/vispsych/" target="_blank" rel="noopener noreferrer">VisPsych</a>,
+							<a href="https://sites.google.com/view/vispsych/" target="_blank" rel="noopener noreferrer">VisPsych</a> (workshops),
 							{' '}
-							<a href="https://link.springer.com/book/10.1007/978-3-031-34738-2" target="_blank" rel="noopener noreferrer">Visualization Psychology</a>,
+							<a href="https://link.springer.com/book/10.1007/978-3-031-34738-2" target="_blank" rel="noopener noreferrer">Visualization Psychology</a> (book),
 							{' '}
 							<a href="https://www.dagstuhl.de/25511" target="_blank" rel="noopener noreferrer">Dagstuhl Seminar 25511</a>
 						</p>
