@@ -18,7 +18,7 @@ const Schedule = () => (
     <table className={styles.scheduleTable}>
       <thead>
         <tr>
-          <th>Time (Tentative)</th>
+          <th>Time</th>
           <th>Event</th>
         </tr>
       </thead>
