@@ -17,6 +17,7 @@ const Header = () => {
 			</div>
 				<h3>{"Panel @ IEEE VIS 2025"}</h3>
 				<h3 className={styles.dateWrapper}>{"Wednesday, Nov. 5, 2025. 3:45 PM - 5:00 PM CET (GMT+2)"}</h3>
+				<h3 className={styles.dateWrapper}>{"Room number not assigned"}</h3>
 			<p>
 				{parse("This panel aims to discuss the critical yet underdeveloped relationship between psychology and visualization (VIS) research. While VIS frequently draws upon psychological principles—particularly in perception and cognition—current integration remains shallow, often relying on heuristics and anecdotal evidence rather than rigorous scientific foundations. This gap hinders the development of generalizable design principles, limits consideration of human factors, and risks creating technically advanced but ineffective or misleading visualizations. Simultaneously, psychology's growing interest in using visualization as an experimental tool presents future potential for bidirectional collaboration.")}
 			</p>
