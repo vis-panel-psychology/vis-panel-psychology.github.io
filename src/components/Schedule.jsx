@@ -2,15 +2,14 @@ import React from "react";
 import styles from "./Schedule.module.scss";
 
 const schedule = [
-  { time: "10:15 PM - 10:20 PM", event: "Introduction by Organizers" },
-  { time: "10:20 PM - 10:25 PM", event: "Presentation by Panelist", bold: "Panelist" },
-  { time: "10:25 PM - 10:30 PM", event: "Presentation by Panelist", bold: "Panelist" },
-  { time: "10:30 PM - 10:35 PM", event: "Presentation by Panelist", bold: "Panelist" },
-  { time: "10:35 PM - 10:40 PM", event: "Presentation by Panelist", bold: "Panelist" },
-  { time: "10:40 PM - 10:45 PM", event: "Presentation by Panelist", bold: "Panelist" },
-  { time: "10:45 PM - 10:50 PM", event: "Presentation by Panelist", bold: "Panelist" },
-  { time: "10:50 PM - 11:25 PM", event: "Panel Discussion and Q & A" },
-  { time: "11:25 PM - 11:30 PM", event: "Closing by Organizers" }
+  { time: "3:45 PM - 3:50 PM", event: "Introduction by Organizers" },
+  { time: "3:50 PM - 3:55 PM", event: "Presentation by Panelist", bold: "Panelist" },
+  { time: "3:55 PM - 4:00 PM", event: "Presentation by Panelist", bold: "Panelist" },
+  { time: "4:00 PM - 4:05 PM", event: "Presentation by Panelist", bold: "Panelist" },
+  { time: "4:05 PM - 4:10 PM", event: "Presentation by Panelist", bold: "Panelist" },
+  { time: "4:10 PM - 4:15 PM", event: "Presentation by Panelist", bold: "Panelist" },
+  { time: "4:15 PM - 4:55 PM", event: "Panel Discussion and Q & A" },
+  { time: "4:55 PM - 5:00 PM", event: "Closing by Organizers" }
 ];
 
 const Schedule = () => (
