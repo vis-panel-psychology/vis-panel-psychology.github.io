@@ -7,11 +7,11 @@
     "image": "chen.jpg"
   },
   {
-    "name": "Karen Schloss",
-    "email": "kschloss@wisc.edu",
-    "affiliation": "UW–Madison",
-    "bio": "Karen Schloss is an Associate Professor at the University of Wisconsin–Madison in the Department of Psychology and Wisconsin Institute for Discovery. Her Visual Reasoning Lab studies how people interpret meaning from visual features, with a focus on color. Her research addresses fundamental questions in information visualization and visual cognition, with the goal of making visual communication more effective and efficient. As part of the WID Virtual Environments group, her lab also develops virtual reality educational tools to help make science accessible and engaging.",
-    "image": "schloss.jpg"
+    "name": "Alex Kale",
+    "email": "kalea@uchicago.edu",
+    "affiliation": "UChicago",
+    "bio": "Alex Kale is an Assistant Professor in Computer Science and the Data Science Institute at the University of Chicago. He earned his PhD in Information Science at the University of Washington in 2022. Alex leads the Data Cognition Lab at the University of Chicago, focused on creating data visualization and analysis software that explicitly represents users’ cognitive processes around data.",
+    "image": "kale.jpeg"
   },
   {
     "name": "Alvitta Ottley",
@@ -28,17 +28,17 @@
     "image": "padilla.jpg"
   },
   {
+    "name": "Karen Schloss",
+    "email": "kschloss@wisc.edu",
+    "affiliation": "UW–Madison",
+    "bio": "Karen Schloss is an Associate Professor at the University of Wisconsin–Madison in the Department of Psychology and Wisconsin Institute for Discovery. Her Visual Reasoning Lab studies how people interpret meaning from visual features, with a focus on color. Her research addresses fundamental questions in information visualization and visual cognition, with the goal of making visual communication more effective and efficient. As part of the WID Virtual Environments group, her lab also develops virtual reality educational tools to help make science accessible and engaging.",
+    "image": "schloss.jpg"
+  },
+  {
     "name": "Cindy Xiong Bearfield",
     "email": "cxiong@gatech.edu",
     "affiliation": "Georgia Tech",
     "bio": "Cindy Xiong Bearfield is an Assistant Professor in the School of Interactive Computing at Georgia Tech. Cindy's expertise in human perception and cognition will help us understand how and when to approach evaluations so that researchers can explain the whys behind their observations.",
     "image": "bearfield.jpg"
-  },
-  {
-    "name": "Alex Kale",
-    "email": "kalea@uchicago.edu",
-    "affiliation": "UChicago",
-    "bio": "Alex Kale is an Assistant Professor in Computer Science and the Data Science Institute at the University of Chicago. He earned his PhD in Information Science at the University of Washington in 2022. Alex leads the Data Cognition Lab at the University of Chicago, focused on creating data visualization and analysis software that explicitly represents users’ cognitive processes around data.",
-    "image": "kale.jpeg"
   }
 ]
